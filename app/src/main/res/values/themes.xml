@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.WeatherApp" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Full screen -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <!-- Status bar, navigation bar color -->
+        <item name="android:statusBarColor">@color/gray</item>
+        <item name="android:navigationBarColor" >@color/nav_bar_color</item>
+    </style>
+</resources>

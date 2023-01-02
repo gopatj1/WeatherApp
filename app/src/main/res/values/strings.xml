@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="empty">Internet connection or GPS is disabled! Can\'t get weather</string>
+    <string name="current_temp_card_text">20°C</string>
+    <string name="condition_card_text">Sunny</string>
+    <string name="min_max_card_text">24°C/29°C</string>
+    <string name="date_card_text">15/05/22 Wednesday</string>
+    <string name="city_card_text">Madrid</string>
+    <string name="tab_hour_text">Hours</string>
+    <string name="tab_days_text">Days</string>
+    <string name="condition_item_text">Moderate or heavy snow showers</string>
+    <string name="date_item_text">11/12/22 wednesday</string>
+    <string name="min_max_item_text">-29°C/16°C</string>
+    <string name="input_city">Input city</string>
+
+    <string-array name="city_names">
+        <item>Amsterdam</item>
+        <item>London</item>
+        <item>Los Angeles</item>
+        <item>Madrid</item>
+        <item>Tokio</item>
+        <item>Washington</item>
+        <item>Paris</item>
+        <item>Moscow</item>
+        <item>Deli</item>
+        <item>Rome</item>
+        <item>Marcelle</item>
+        <item>Mumbai</item>
+        <item>Montreal</item>
+        <item>Berlin</item>
+        <item>Barcelona</item>
+        <item>Frankfurt</item>
+        <item>Kuala Lumpur</item>
+        <item>Toronto</item>
+        <item>San Francisco</item>
+        <item>Dubai</item>
+        <item>Budapest</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray">#4B5151</color>
+    <color name="card_blue_bg">#944DC8C7</color>
+    <color name="card_text_white">#FFFFFF</color>
+    <color name="card_text_black">#000000</color>
+    <color name="card_text_blue">#81B1BD</color>
+    <color name="nav_bar_color">#022525</color>
+</resources>
